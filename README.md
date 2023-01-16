@@ -1,4 +1,6 @@
-# DBMS_Assignment
+# DSE 310: Database Management Systems (Fall Semester-2022)
+## Course Instructor: Jasabanta Patro
+Coursework: Assignments
 
 **Assignment Question** 
 
